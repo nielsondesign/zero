@@ -1,13 +1,13 @@
 body {
   font-family: 'Inter', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   background-color: #FAFCFF;
 }
 
 h1 {
   color: black;
-  background-color: yellow;
-  border: 1px solid black;
+  background-color: #FAFCFF;
+  font-size: 24px;
 }
 
 .page-title * {
